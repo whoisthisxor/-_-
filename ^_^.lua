@@ -383,7 +383,7 @@ function EspObject:Render()
 	end
 end
 
--- cham object																																																																																																		print("hi")
+-- cham object
 local ChamObject = {};
 ChamObject.__index = ChamObject;
 
